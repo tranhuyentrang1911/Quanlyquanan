@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/model/HoaDon.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PAdmin_QuanTri_DanhMuc.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/controller/SanPhamDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/model/NhanVien.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/model/NhapHang.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PAdmin_QuanTri_DoanhThu.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/common/Connecdb.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/controller/DanhMucDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/common/DongHo.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/controller/ChiTietHDDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PAdmin_QuanTri_HoaDon.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/TrangChu.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/model/NhaCC.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/controller/NhaCCDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/model/Admin.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PTrangChu.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/model/ChiTietHD.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PAdmin_QuanTri_NhaCC.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PNhanVien_QuanTri_HoaDon.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PAdmin_DangNhap.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/common/validate.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PAdmin_QuanTri_SanPham.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/controller/HoaDonDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/model/DanhMuc.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PNhanVien_DangNhap.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/model/SanPham.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PAdmin_QuanTri_NhanVien.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/controller/NhapHangDao.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/view/PAdmin_QuanTri_NhapHang.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/Quanlyquanan/src/controller/NhanVienDao.java</file>
+        </group>
+    </open-files>
+</project-private>
